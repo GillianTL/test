@@ -1832,9 +1832,9 @@
      fit-margin-right="0"
      fit-margin-bottom="0"
      borderlayer="true"
-     inkscape:zoom="2.227837"
-     inkscape:cx="54.155028"
-     inkscape:cy="282.16557"
+     inkscape:zoom="6.3012746"
+     inkscape:cx="127.18038"
+     inkscape:cy="298.04537"
      inkscape:window-x="473"
      inkscape:window-y="11"
      inkscape:window-maximized="0"
@@ -1959,4 +1959,23 @@
          x="306.13889"
          y="151.35796" /></flowRegion><flowPara
        id="flowPara105428"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10px;font-family:'Linux Libertine O';-inkscape-font-specification:'Linux Libertine O Bold';fill:#666666">baseline</flowPara></flowRoot></svg>
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10px;font-family:'Linux Libertine O';-inkscape-font-specification:'Linux Libertine O Bold';fill:#666666">baseline</flowPara></flowRoot>  <flowRoot
+     style="font-style:normal;font-weight:normal;font-size:5px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     id="flowRoot171648"
+     xml:space="preserve"
+     transform="matrix(0.63759704,-0.77037005,0.77037005,0.63759704,-221.20056,339.89349)"><flowRegion
+       id="flowRegion171650"><rect
+         y="151.35796"
+         x="306.13889"
+         height="41.22839"
+         width="125.67426"
+         id="rect171652" /></flowRegion><flowPara
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12.5px;font-family:'Linux Libertine O';-inkscape-font-specification:'Linux Libertine O Bold';letter-spacing:9.80999947px"
+       id="flowPara171654">counter</flowPara></flowRoot>  <rect
+     style="opacity:1;fill:#f7f7f7;fill-opacity:1;stroke:none;stroke-width:0.80000001;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+     id="rect182482"
+     width="286.29129"
+     height="22.376425"
+     x="10.791468"
+     y="-7.8641062" />
+</svg>
